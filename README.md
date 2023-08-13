@@ -1,6 +1,12 @@
 # EDA-on-spotify-top-50-songs
-This dataset provides us with valuable insights into the characteristics of the songs that make it to the top of the charts.
-Here are some of the insights that EDA on a spotify top 50 dataset reveals :
+## PROBLEM STATEMENT :
+This dataset provides us with valuable insights into the characteristics of the songs that make it to the top of the charts. It uncovers insights from the dataset involving a  comprehensive analysis of the dataset related to the characteristics and the popularity of the top 50 songs on Spotify.
+## Its important to perform as :
+## 1. understanding song attributes to gain the understanding of the musical characteristics of the top songs.
+## 2. analyses which features tend to be associated with more popular songs
+## 3. analyse which genres and artist are consistently appears in the list.
+## NOW, LETS BEGIN THE EDA :
+## here are some of the insights that EDA on a spotify top 50 dataset reveals :
 ## 1.  Create a visualisation of correlation map and find out the respective correlations in the dataset?
 ![image](https://github.com/sshreyaa05/EDA-on-spotify-top-50-songs/assets/132264752/25986de4-b995-4010-857a-653f233b5c0d)
 ## RESULT:
@@ -16,3 +22,4 @@ Here are some of the insights that EDA on a spotify top 50 dataset reveals :
 ## as we can see that if our acousticness increases then popularity of the song also gets increased and vice versa.
 ## 4. How many artists were there in the dataset?
 ![image](https://github.com/sshreyaa05/EDA-on-spotify-top-50-songs/assets/132264752/fcc664b2-84d6-4a4a-8c4e-84bfcd953224)
+## IN THIS WAY WE HAVE SUCCESSFULLY CONDUCTED THE EDA.
